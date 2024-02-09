@@ -1,0 +1,69 @@
+body {
+    background-color: orange;
+    background-image: url("../img/hatter.png");
+    max-width: 800px;
+    margin: auto;
+}
+h1, h2, nav {
+    text-align: center;
+}
+h1 {
+    color:yellow;
+}
+h2 {
+    color: black;
+}
+nav{
+    border-top: 2px yellow solid;
+    border-bottom: 2px yellow solid;
+}
+#hambi {
+	text-align: right;
+	padding: 10px 20px;
+	font-size: 150%;
+}
+#menulista {
+	list-style: none;
+	display: none;
+} 
+a {
+    text-decoration: none;
+    color:brown;
+    padding:15px;
+    font-variant: small-caps;
+		display:block;
+}
+a:hover {
+    color: yellow;
+}
+main {
+	padding: 10px;
+}
+img {
+    float:left;
+    padding: 0 10px 10px 0;
+    width: 150px;
+}
+.leiras {
+    overflow: auto;
+    text-align: justify;
+}
+footer {
+    text-align: center;
+    border-top: 2px yellow solid;
+}
+
+@media screen and (min-width: 1024px) {
+	nav a {
+		border-bottom:0;
+	}
+	#hambi {
+		display: none;
+	}
+	#menulista {
+		display: block;
+	}
+	nav ul li.menupont {
+		display: inline-block;
+	}
+}

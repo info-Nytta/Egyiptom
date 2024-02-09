@@ -1,0 +1,44 @@
+[
+	{
+		"menu": "A csodák országa",
+		"title": "A csodák országa",
+		"h2": "A csodák országa",
+		"img": "giza.jpeg",
+		"fileName": "start.txt"
+	},
+	{
+		"menu": "Kairó",
+		"title": "Kairó",
+		"h2": "Kairó, az egyiptomi utazások kezdete és vége",
+		"img": "kairo.jpg",
+		"fileName": "kairo.txt"
+	},
+	{
+		"menu": "Beutazás",
+		"title": "Beutazás",
+		"h2": "Beutazás",
+		"img": "repulogep.jpg",
+		"fileName": "beutazas.txt"
+	},
+	{
+		"menu": "Közlekedés",
+		"title": "Közlekedés",
+		"h2": "Közlekedés",
+		"img": "napnyugta.jpeg",
+		"fileName": "kozlekedes.txt"
+	},
+	{
+		"menu": "Orvosi ellátás",
+		"title": "Orvosi ellátás",
+		"h2": "Orvosi ellátás, higiénia",
+		"img": "orvos.jpg",
+		"fileName": "ellatas.txt"
+	},
+	{
+		"menu": "Védőoltások",
+		"title": "Védőoltások",
+		"h2": "Védőoltások",
+		"img": "tu.jpg",
+		"fileName": "oltas.txt"
+	}
+]
